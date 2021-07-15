@@ -177,10 +177,7 @@ Match Highligths
 }
 .summary{
     justify-content: center;
-
     align-items: center;
-
-
     width: 469px;
     height: 309px;
 }
@@ -359,16 +356,11 @@ footer img{
         font-size: 36px;
         color: #FFFFFF;
    }
-
-   
-   
-   
    .banner img{
         width: 329px;
         height: 259.17px;
         margin-bottom: 62px;
         width: 100%;
-
    }
    
    .item{
